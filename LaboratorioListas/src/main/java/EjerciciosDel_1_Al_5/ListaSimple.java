@@ -1,4 +1,4 @@
-package org.example;
+package EjerciciosDel_1_Al_5;
 
 import java.util.function.Predicate;
 
