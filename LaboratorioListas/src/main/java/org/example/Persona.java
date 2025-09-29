@@ -1,8 +1,8 @@
 package org.example;
 
 public class Persona {
-    private String nombre;
-    private String cedula;
+    private final String nombre;
+    private final String cedula;
 
     public Persona(String nombre, String cedula) {
         this.nombre = nombre;
